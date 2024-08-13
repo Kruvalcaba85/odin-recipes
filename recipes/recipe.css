@@ -22,5 +22,13 @@ body {
     background-color:white;
 }
 
+.lasagna {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:lightgreen;
+    border-style:groove;
+    border-color:orange;
+    background-color:brown;
+}
+
 
 
