@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+.text {
+    font-size:larger;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+}
+.important-ingredient {
+    font-size: larger;
+    font-weight: bolder;
+    border: 2px solid;
+    padding: 10px;
+    box-shadow: 6px 4px;
+}
+
+.tacos {
+    font-family: 'Monaco', 'Times New Roman', serif;
+    color:green;
+    border-style:solid;
+    border-color:red;
+    background-color:white;
+}
+
+
+
